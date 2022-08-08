@@ -1,12 +1,19 @@
-# What Scrum?
-![scrumorg-scrum-framework-3000](https://user-images.githubusercontent.com/92257857/183409803-df035e5b-0b93-4421-af70-8c0271514ad9.png)
+# Scrum
+![scrumorg-scrum-framework-3000](https://static.scrum.org/web/images/Scrumorg-Scrum-Framework-scrubbed.png)<br>
 
-# how to learn scrum?
----------------------
+
+you can also check this web page : <https://www.scrum.org>
+
+# What Scrum?
+
 [YouTube]: <https://www.youtube.com/watch?v=502ILHjX9EE>
 [blog]: <https://blog.crisp.se/2012/10/25/henrikkniberg/agile-product-ownership-in-a-nutshell>
-First of all, you can watch this video on [YouTube]<br>
+[Wikipedia]: <https://en.wikipedia.org/wiki/Scrum_(software_development)>
+First of all, you can watch this video on [YouTube],<br>
 In this video, you will get a complete view of agile.<br>
 The text of this video is posted on the [blog].
+<br>
+And then you can see the history of Scrum and also Scrum in the framework of software development in [Wikipedia].
 
-<img src="https://user-images.githubusercontent.com/92257857/183408659-be93c96f-7c31-4de5-bded-acea16ffce62.png" width="400" height="300">
+
+<img src="https://user-images.githubusercontent.com/92257857/183408659-be93c96f-7c31-4de5-bded-acea16ffce62.png" width="500" height="300">
