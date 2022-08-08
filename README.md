@@ -1,4 +1,4 @@
-# learnScrum
+# What Scrum?
 ![scrumorg-scrum-framework-3000](https://user-images.githubusercontent.com/92257857/183409803-df035e5b-0b93-4421-af70-8c0271514ad9.png)
 
 # how to learn scrum?
