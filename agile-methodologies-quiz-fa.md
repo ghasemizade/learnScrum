@@ -303,204 +303,206 @@
 - [ ] ظرفیت تیم
 
 
-#### Q43. You have noticed a pattern that the most interesting stories on the Sprint Backlog get started right away, and the least interesting stories languish or don't get done. What should you do?
+## س43. شما متوجه الگویی شده‌اید که جالب‌ترین داستان‌ها در Sprint Backlog بلافاصله شروع می‌شوند و کم‌نظیرترین داستان‌ها از بین می‌روند یا تمام نمی‌شوند. چه کاری باید انجام دهید؟
 
-- [ ] Use a lottery system assign each story.
-- [ ] Share your observation with the team and invite them to own and solve the problem.
-- [ ] During story point estimation increase the points assigned to the least interesting stories so the team can boost their velocity.
-- [x] Ask the Tech Lead to assign every story to a developer so they all get done efficiently and with accountability.
+- [ ] از یک سیستم قرعه کشی برای تعیین هر داستان استفاده کنید.
+- [ ] مشاهدات خود را با تیم به اشتراک بگذارید و آنها را به مالکیت و حل مشکل دعوت کنید.
+- [ ] در طول تخمین نقطه داستان، امتیازهای اختصاص داده شده به داستان های کم جذاب را افزایش دهید تا تیم بتواند سرعت خود را افزایش دهد.
+- [x] از Tech Lead بخواهید که هر داستان را به یک توسعه دهنده اختصاص دهد تا همه آنها به طور موثر و با مسئولیت پذیری انجام شوند.
 
-#### Q44. What Agile practice best supports this principle: "At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly"?
+## س44. کدام تمرین چابک به بهترین وجه از این اصل پشتیبانی می کند: "در فواصل زمانی منظم، تیم در مورد چگونگی موثرتر شدن فکر می کند، سپس رفتار خود را بر اساس آن تنظیم و تنظیم می کند"؟
 
-- [ ] Sprint Review
-- [x] Sprint Retrospective
-- [ ] daily stand-up
-- [ ] Sprint Demo
+- [ ] بررسی اسپرینت
+- [x] اسپرینت گذشته نگر
+- [ ] استند آپ روزانه
+- [ ] نسخه ی نمایشی Sprint
 
-#### Q45. On what are personas typically based?
+## س45. پرسوناها معمولاً بر چه چیزی مبتنی هستند؟
 
-- [ ] a sponsors or team members' personalities and traits
-- [ ] what the developers think is user friendly
-- [x] real people, archetypal users, or composites of multiple users
-- [ ] descriptions of the product's functionality and use
+- [ ] شخصیت ها و ویژگی های حامیان مالی یا اعضای تیم
+- [ ] آنچه که توسعه دهندگان فکر می کنند کاربر پسند است
+- [x] افراد واقعی، کاربران کهن الگویی، یا ترکیبی از چندین کاربر
+- [ ] توضیحاتی در مورد عملکرد و کاربرد محصول
 
-#### Q46. Which statement describes Shu Ha Ri?
+## س46. کدام عبارت Shu Ha Ri را توصیف می کند؟
 
-- [ ] It is a library of coding patterns.
-- [ ] It is a software testing strategy.
-- [ ] It is a standard for interface design.
-- [x] It is a model for skill development and mastery.
+- [ ] این یک کتابخانه از الگوهای کدگذاری است.
+- [ ] این یک استراتژی تست نرم افزار است.
+- [ ] این یک استاندارد برای طراحی رابط است.
+- [x] الگویی برای توسعه مهارت و تسلط است.
 
-#### Q47. What does the Agile Manifesto indicate?
+## س47. مانیفست اجایل چه چیزی را نشان می دهد؟
 
-- [x] Responding to change is more valuable than following a plan.
-- [ ] Documenting requirements up front is more valuable than at the end.
-- [ ] Following the plan is essential for not going over budget.
-- [ ] Contract negotiation should be used to settle disputes.
+- [x] پاسخ دادن به تغییرات ارزشمندتر از دنبال کردن یک برنامه است.
+- [ ] مستندسازی الزامات از قبل ارزشمندتر از انتها است.
+- [ ] پیروی از برنامه برای تجاوز نکردن به بودجه ضروری است.
+- [ ] برای حل و فصل اختلافات باید از مذاکره قرارداد استفاده شود.
 
-#### Q48. What is the main benefit of a working agreement?
+## س48. مزیت اصلی یک قرارداد کاری چیست؟
 
-- [ ] It specifies core working hours.
-- [ ] It clarifies the reporting relationships on the team.
-- [x] It defines the culture that the team aspires to achieve.
-- [ ] It compiles everyone's information.
+- [ ] ساعات کار اصلی را مشخص می کند.
+- [ ] روابط گزارش دهی در تیم را روشن می کند.
+- [x] فرهنگی که تیم آرزوی دستیابی به آن را دارد را تعریف می کند.
+- [ ] اطلاعات همه را جمع آوری می کند.
 
-#### Q49. What is the name of the information radiator that has multiple columns used to visualize the flow of work?
+## س49. نام رادیاتور اطلاعاتی که دارای چندین ستون است برای تجسم جریان کار چیست؟
 
-- [ ] Work Flow Indicator
-- [ ] Value Stream Map
-- [ ] Story Map
-- [x] Kanban Board
+- [ ] نشانگر جریان کار
+- [ ] نقشه جریان ارزش
+- [ ] نقشه داستان
+- [x] هیئت کانبان
 
-#### Q50. Which is the best definition of story points?
+## س50. بهترین تعریف از نکات داستان کدام است؟
 
-- [x] They are a relative measure of the effort needed to complete a story.
-- [ ] They a measure of development time only, test time is considered separately.
-- [ ] They are a relative measure of the value of a story.
-- [ ] They are a measure of time to complete a story.
+- [x] آنها معیاری نسبی از تلاش لازم برای تکمیل یک داستان هستند.
+- [ ] آنها تنها اندازه گیری زمان توسعه هستند، زمان آزمون به طور جداگانه در نظر گرفته می شود.
+- [ ] آنها معیاری نسبی برای ارزش یک داستان هستند.
+- [ ] آنها معیاری از زمان برای تکمیل یک داستان هستند.
 
-#### Q51. What is a Scrum of Scrums?
+## س51. اسکرام اسکرامز چیست؟
 
-- [x] It is technique for two or more teams working together coordinate their efforts.
-- [ ] It is another name for the Scrum Master Community of Practice.
-- [ ] It is an information radiator used to compare the velocity of several teams.
-- [ ] It is the system demo for teams on the same release train.
+- [x] این تکنیکی است که دو یا چند تیم با هم کار می کنند و تلاش های خود را هماهنگ می کنند.
+- [ ] این نام دیگری برای جامعه تمرینی Scrum Master است.
+- [ ] این یک رادیاتور اطلاعاتی است که برای مقایسه سرعت چند تیم استفاده می شود.
+- [ ] این نسخه نمایشی سیستم برای تیم هایی است که در همان قطار آزاد هستند.
 
-#### Q52. What is the Product Owner's role regarding the product backlog?
+## س52. نقش مالک محصول در مورد عقب ماندگی محصول چیست؟
 
-- [ ] The PO must identify the intended users of the features on the backlog.
-- [ ] The PO is responsible for estimating the size of the total.
-- [x] The PO must identify the dependencies that impact the backlog.
-- [ ] The PO decides what to include in the backlog and what to exclude.
+- [ ] PO باید کاربران مورد نظر از ویژگی های موجود در بک لاگ را شناسایی کند.
+- [ ] PO مسئول تخمین اندازه کل است.
+- [x] PO باید وابستگی هایی را که بر انباشتگی تأثیر می گذارند شناسایی کند.
+- [ ] PO تصمیم می گیرد که چه چیزی را در لیست عقب مانده و چه چیزی را حذف کند.
 
-#### Q53. Why should a team do refactoring?
+## س53. چرا یک تیم باید Refactoring انجام دهد؟
 
-- [ ] It assigns developers to other teams in order to eliminate personality conflicts.
-- [ ] It improves the functionality of the product,
-- [ ] It recalibrates the success criteria for the product in the marketplace.
-- [x] It improves the design, which can lead improved development efficiency and maintainability.
+- [ ] توسعه دهندگان را به تیم های دیگر اختصاص می دهد تا تضادهای شخصیتی را از بین ببرد.
+- [ ] عملکرد محصول را بهبود می بخشد،
+- [ ] معیارهای موفقیت محصول در بازار را مجدداً تنظیم می کند.
+- [x] این طراحی را بهبود می بخشد، که می تواند منجر به بهبود بهره وری توسعه و نگهداری شود.
 
-#### Q54. Which choice is not a benefit generally associated with product demonstrations?
+## س54. کدام انتخاب مزیتی نیست که عموماً با نمایش محصول مرتبط است؟
 
-- [ ] Learn about new requirements.
-- [ ] Learn feature suitability.
-- [ ] Learn about feature usability.
-- [x] Learn about feature estimates.
+- [ ] با الزامات جدید آشنا شوید.
+- [ ] مناسب بودن ویژگی را بیاموزید
+- [ ] با قابلیت استفاده از ویژگی ها آشنا شوید.
+- [x] درباره تخمین ویژگی ها بیاموزید.
 
-#### Q55. What is an information radiator?
+## س55. رادیاتور اطلاعات چیست؟
 
-- [ ] a list of KPIs for the team
-- [ ] a list of overdue action items
-- [x] the task board
-- [ ] a highly visible display of key performance data
+- [ ] لیستی از KPIها برای تیم
+- [ ] لیستی از موارد اقدام عقب افتاده
+- [x] تخته وظیفه
+- [ ] نمایش بسیار قابل مشاهده از داده های عملکرد کلیدی
 
-#### Q56. According to the Agile Manifesto, your highest priority is to \_.
+## س56. طبق مانیفست اجایل، بالاترین اولویت شما این است که _
 
-- [ ] minimize change requests
-- [x] satisfy the customer
-- [ ] get the job done on time
-- [ ] achieve the desired ROI
+- [ ] به حداقل رساندن درخواست های تغییر
+- [x] رضایت مشتری را جلب کند
+- [ ] کار را به موقع انجام دهید
+- [ ] رسیدن به بازگشت سرمایه (ROI) مورد نظر
 
-#### Q57. Product development organizations sometimes use descriptions of archetypal users and their values so that developers can design the system to meet their needs and wants. What are these descriptions called?
+## س57. سازمان‌های توسعه‌دهنده محصول گاهی از توصیفات کاربران کهن الگو و ارزش‌های آن‌ها استفاده می‌کنند تا توسعه‌دهندگان بتوانند سیستم را مطابق با نیازها و خواسته‌های خود طراحی کنند. به این توصیفات چه می گویند؟
 
-- [ ] actors
-- [ ] roles
-- [ ] agents
-- [x] personas
+- [ ] بازیگران
+- [ ] نقش ها
+- [ ] عوامل
+- [x] شخصیت ها
 
-#### Q58. The Product Owner is focused on testing a new system concept in the marketplace as quickly and inexpensively as possible. What is this first-generation product called?
+## س58. مالک محصول بر روی آزمایش یک سیستم جدید در بازار به سرعت و کمترین هزینه متمرکز شده است. نام این محصول نسل اول چیست؟
 
-- [ ] preproduction version
-- [ ] focus group demonstrator
-- [ ] Generation 1 product
-- [x] minimum viable product
+- [ ] نسخه پیش تولید
+- [ ] نمایشگر گروه متمرکز
+- [ ] محصول نسل 1
+- [x] حداقل محصول قابل دوام
 
-#### Q59. To whom should the Product Owner report?
+## س59. مالک محصول باید به چه کسی گزارش دهد؟
 
-- [ ] the Quality Manager
-- [x] the Product Manager
-- [ ] the Scrum Master
-- [ ] the Engineering Manager
+- [ ] مدیر کیفیت
+- [x] مدیر محصول
+- [ ] اسکرام مستر
+- [ ] مدیر مهندسی
 
-#### Q60. What happens in Sprint 0?
+## س60. در Sprint 0 چه اتفاقی می افتد؟
 
-- [ ] The team delivers no story points in that sprint.
-- [ ] The team does regression testing prior to release to production.
-- [x] The team prepares to work on the product backlog.
-- [ ] This is the time to inspect and adapt.
+- [ ] تیم هیچ نقطه داستانی در آن سرعت ارائه نمی دهد.
+- [ ] این تیم قبل از عرضه به تولید، آزمایش پسرفت را انجام می دهد.
+- [x] تیم آماده می شود تا روی محصول عقب مانده کار کند.
+- [ ] این زمان برای بازرسی و سازگاری است.
 
-#### Q61. What does the Definition of Done mean?
+## س61.  تعریف Done به چه معناست؟
 
-- [ ] The story meets the INVEST criteria.
-- [ ] The team has completed all of the work in its Sprint.
-- [ ] The story has been handed off to the DevOps team.
-- [x] The team has agreed on the criteria for story completion.
+- [ ] داستان با معیارهای INVEST مطابقت دارد.
+- [ ] این تیم تمام کارها را در اسپرینت خود به پایان رسانده است.
+- [ ] داستان به تیم DevOps واگذار شده است.
+- [x] تیم بر روی معیارهای تکمیل داستان به توافق رسیده است.
 
-#### Q62. Which element is most important when describing your product?
+## س62. کدام عنصر در هنگام توصیف محصول شما مهمتر است؟
 
-- [ ] its cost
-- [ ] its licensing terms and conditions
-- [x] its benefits
-- [ ] its features
+- [ ] هزینه آن
+- [ ] شرایط و ضوابط صدور مجوز آن
+- [x] مزایای آن
+- [ ] ویژگی های آن
 
-#### Q63. Which choice best describes the Team Facilitator?
+## س63. کدام گزینه بهترین توصیف کننده تیم تسهیل کننده است؟
 
-- [ ] a meeting scheduler
-- [ ] a record keeper
-- [ ] a project manager
-- [x] an Agile coach
+- [ ] یک زمان بندی جلسه
+- [ ] یک رکورددار
+- [ ] یک مدیر پروژه
+- [x] یک مربی چابک
 
-#### Q64. What is the name of the technique that divides a story into smaller pieces?
+## س64.  نام تکنیکی که یک داستان را به قطعات کوچکتر تقسیم می کند چیست؟
 
-- [ ] mitosis
-- [ ] story slicing
-- [x] disaggregation
-- [ ] Divide and Conquer
+- [ ] میتوز
+- [ ] برش داستان
+- [x] تفکیک
+- [ ] تفرقه بینداز و حکومت کن
 
-#### Q65. A team member comes to you with a complaint about another team member. What should you do?
+## س65. یکی از اعضای تیم با شکایت از یکی دیگر از اعضای تیم نزد شما می آید. چه کاری باید انجام دهید؟
 
-- [ ] Bring the complaint to the other person and try to resolve the issue.
-- [ ] Ask them to talk to the other person and try to work it.
-- [ ] Notify HR of the problem and ask them to handle it.
-- [x] Invite both people a meeting and try mediate the conflict.
+- [ ] شکایت را به طرف مقابل بیاورید و سعی کنید مشکل را حل کنید.
+- [ ] از آنها بخواهید که با طرف مقابل صحبت کنند و سعی کنند آن را حل کنند.
+- [ ] HR را از مشکل مطلع کنید و از آنها بخواهید که آن را حل کنند.
+- [x] هر دو نفر را به جلسه دعوت کنید و سعی کنید درگیری را میانجیگری کنید.
 
-#### Q66. What is the forming-storming-norming, performing model of team development known as?
+## س66.  مدل شکل‌دهی-طوفانی-هنجارسازی و اجرای توسعه تیمی به نام چیست؟
 
-- [x] the Tuckman model
-- [ ] the Standard Team model
-- [ ] Moore's Team Framework
-- [ ] the Siebert model
+- [x] مدل تاکمن
+- [ ] مدل تیم استاندارد
+- [ ] چارچوب تیم مور
+- [ ] مدل سیبرت
 
-#### Q67. What is the name of the ceremony in which you inspect the work completed during the sprint?
+## س67. نام مراسمی که در آن کار انجام شده در طول دوی سرعت را بررسی می کنید چیست؟
 
-- [ ] Sprint Retrospective
-- [x] Sprint Review
-- [ ] Next-Sprint Planning
-- [ ] Velocity Confirmation
+- [ ] اسپرینت گذشته نگر
+- [x] بررسی اسپرینت
+- [ ] برنامه ریزی بعدی اسپرینت
+- [ ] تایید سرعت
 
-`Sprint Retrospective: Reflect on the previous sprint, discuss what’s working well, what could be improved, and how to improve it to be more productive.`
-[Source](https://startinfinity.com/product-management-framework/scrum-sprint/sprint-review-vs-sprint-retrospective) `Sprint Review: Discuss what has been accomplished during the sprint and whether the sprint goal has been met.`
+«بازنگری اسپرینت: در مورد اسپرینت قبلی فکر کنید، درباره اینکه چه چیزی خوب کار می‌کند، چه چیزی می‌تواند بهبود یابد و چگونه می‌توان آن را برای بهره‌وری بیشتر بهبود بخشید، بحث کنید».
 
-#### Q68. Which choice best describes an Agile Release Train (ART)?
+[منبع](https://startinfinity.com/product-management-framework/scrum-sprint/sprint-review-vs-sprint-retrospective) `Sprint Review: Discuss what has been accomplished during the sprint and whether the sprint goal has been met.`
 
-- [x] continuous delivery
-- [ ] comprised of the teams within a program
-- [ ] DevOps Center of Excellence
-- [ ] Scrum of Scrums
+## س68. کدام گزینه به بهترین وجه یک قطار انتشار اجایل (ART) را توصیف می کند؟
 
-#### Q69. As an Agile coach, what should be your attitude toward your team members individual goals and motivations?
+- [x] تحویل مداوم
+- [ ] متشکل از تیم های درون یک برنامه
+- [ ] مرکز تعالی DevOps
+- [ ] اسکرام اسکرامز
 
-- [ ] Understand them—try align personal motivations with the team's progress toward the project goals.
-- [ ] Nurture them-goals are the reason why people want to be at work.
-- [ ] Disregard them—personal views have no bearing on reaching the project goals.
-- [x] Leverage them—use personal goals encourage team members raise their performance levels.
+## س69.  به عنوان یک مربی چابک، نگرش شما نسبت به اهداف و انگیزه های فردی اعضای تیمتان چگونه باید باشد؟
 
-#### Q70. Which phrase best describes an Agile team?
+- [ ] آنها را درک کنید - سعی کنید انگیزه های شخصی را با پیشرفت تیم به سمت اهداف پروژه هماهنگ کنید.
+- [ ] آنها را پرورش دهید - اهداف دلیلی است که مردم می خواهند در محل کار باشند.
+- [ ] آنها را نادیده بگیرید - دیدگاه های شخصی هیچ تاثیری در دستیابی به اهداف پروژه ندارد.
+- [x] از آنها استفاده کنید - از اهداف شخصی استفاده کنید تا اعضای تیم را تشویق کنید تا سطح عملکرد خود را افزایش دهند.
 
-- [ ] self-directed
-- [ ] self-managed
-- [ ] self-sustaining
-- [x] self-organizing
+## س70. کدام عبارت یک تیم اجایل را بهتر توصیف می کند؟
+
+- [ ] خود هدایت شده
+- [ ] خود مدیریتی
+- [ ] خود نگهدار
+- [x] خود سازماندهی
+
 
 #### Q71. Which technique does not help prioritize the backlog?
 
