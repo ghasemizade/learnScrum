@@ -27,5 +27,6 @@ This is a [doc](https://github.com/ghasemizade/learnScrum/blob/main/agile-method
 
 This is a [doc](https://github.com/ghasemizade/learnScrum/blob/main/agile-methodologies-quiz.md) of agile method questions for english speakers.
 
-And finally, to make sure you learn Scrum and Agile, you can 
+### finally 
+to make sure you learn Scrum and Agile, you can 
 Assessment yourself on [LinkedIn](https://www.linkedin.com/skill-assessments/Agile%20Methodologies/quiz-intro/)
