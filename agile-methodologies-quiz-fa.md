@@ -504,285 +504,285 @@
 - [x] خود سازماندهی
 
 
-#### Q71. Which technique does not help prioritize the backlog?
+## س71. کدام تکنیک به اولویت بندی عقب ماندگی کمک نمی کند؟
 
 - [ ] MoSCow
 - [ ] Kano
 - [ ] WSJF
 - [x] Kaizen
 
-#### Q72. What does the Definition of Ready mean?
+## س72. تعریف آماده به چه معناست؟
 
-- [ ] The story has been tested end is ready for release to production.
-- [x] The story is ready to be brought into a sprint.
-- [ ] The stakeholders are ready to discuss their requirements for story.
-- [ ] The team has completed sprint 0 and is ready to work.
+- [ ] داستان تست شده است و پایان آماده انتشار به تولید است.
+- [x] داستان آماده است تا به سرعت وارد شود.
+- [ ] ذینفعان آماده هستند تا در مورد نیازهای خود برای داستان بحث کنند.
+- [ ] تیم اسپرینت 0 را تکمیل کرده و آماده کار است.
 
-[Source](https://www.scruminc.com/definition-of-ready/) `Definition of Ready means that stories must be immediately actionable. The Team must be able to determine what needs to be done and the amount of work required to complete the User Story.`
+[منبع](https://www.scruminc.com/definition-of-ready/) `Definition of Ready means that stories must be immediately actionable. The Team must be able to determine what needs to be done and the amount of work required to complete the User Story.`
 
-#### Q73. Which is NOT a principle of the Scaled Agile Framework?
+## س73. کدام یک از اصول چارچوب Scaled Agile نیست؟
 
-- [x] Centralize decision-making
-- [ ] Apply systems thinking
-- [ ] Take an economic view
-- [ ] Unlock the intrinsic motivation of knowledge workers
+- [x] تصمیم گیری را متمرکز کنید
+- [ ] استفاده از تفکر سیستمی
+- [ ] نگاه اقتصادی داشته باشید
+- [ ] انگیزه درونی کارکنان دانش را باز کنید
 
 [Source: Underlying principles of SAFe](https://en.wikipedia.org/wiki/Scaled_agile_framework#Underlying_principles_of_SAFe)
 
-#### Q74. What is the definition of capacity?
+## س74. تعریف ظرفیت چیست؟
 
-- [ ] It is an inventory of the team's knowledge and skills that is used to plan the work that they do.
-- [ ] It is the number of teams that a Team Facilitator can support concurrently.
-- [ ] It is an adjustment to velocity, used in Spring Planning, to account for reduced availability of team members during the upcoming sprint.
-- [x] It is the maximum number of stories that will be allowed in a sprint.
+- [ ] این فهرستی از دانش و مهارت های تیم است که برای برنامه ریزی کاری که انجام می دهند استفاده می شود.
+- [ ] این تعداد تیم هایی است که یک تسهیلگر تیم می تواند به طور همزمان از آنها پشتیبانی کند.
+- [ ] این تنظیمی برای سرعت است که در برنامه ریزی بهار استفاده می شود تا در دسترس بودن اعضای تیم در طول دوی سرعت آینده کاهش یابد.
+- [x] این حداکثر تعداد داستان‌هایی است که در یک سرعت مجاز می‌باشند.
 
-#### Q75. The team is complaining that they send request for clarification to the Product Owner, but these requests go unanswered. What action should you take?
+## س75. این تیم شکایت دارد که درخواست شفاف سازی را برای مالک محصول ارسال می کند، اما این درخواست ها بی پاسخ می مانند. چه اقدامی باید انجام دهید؟
 
-- [ ] If there is a question about story, tell the developers to use their best judgement, avoid delay, and discuss the issue in sprint review.
-- [ ] Send a note to the Product Owner saying the delays in completing the work will be their responsibility, not the team's.
-- [ ] Develop a service-level agree (SLA) that defines certain response times for different types of request and ask the Product Owner to sign off on it.
-- [x] Schedule a problem-solving session with the Product Owner and the other team members.
+- [ ] اگر سوالی در مورد داستان وجود دارد، به توسعه دهندگان بگویید بهترین قضاوت خود را بکار گیرند، از تأخیر خودداری کنند و در بررسی اسپرینت موضوع را مطرح کنند.
+- [ ] یک یادداشت برای مالک محصول ارسال کنید و بگویید که تاخیر در تکمیل کار به عهده آنهاست، نه تیم.
+- [ ] یک توافق در سطح خدمات (SLA) ایجاد کنید که زمان‌های پاسخ مشخصی را برای انواع مختلف درخواست تعریف می‌کند و از مالک محصول بخواهید آن را امضا کند.
+- [x] یک جلسه حل مشکل با مالک محصول و سایر اعضای تیم برنامه ریزی کنید.
 
-#### Q76. Which choice is a pillar of Lean?
+## س76. کدام انتخاب یک رکن ناب است؟
 
-- [ ] Frequent delivery of working software
-- [x] Respect for people and culture
-- [ ] Courage
-- [ ] Sustainable pace
+- [ ] تحویل مکرر نرم افزار کار
+- [x] احترام به مردم و فرهنگ
+- [ ] شجاعت
+- [ ] سرعت پایدار
 
-[Source](https://www.planview.com/resources/guide/lean-principles-101/what-is-lean/#:~:text=The%20Pillars%20of%20Lean) `Two pillars are (1) Continuous Improvement, and (2) Respect for People.`
+[منبع](https://www.planview.com/resources/guide/lean-principles-101/what-is-lean/#:~:text=The%20Pillars%20of%20Lean) `Two pillars are (1) Continuous Improvement, and (2) Respect for People.`
 
-#### Q77. Which statement best describes Agile, Lean, and Six Sigma?
+## س77. کدام عبارت Agile، Lean و Six Sigma را بهتر توصیف می کند؟
 
-- [x] They are strategies for delivering customer value.
-- [ ] They were pioneered by Toyota.
-- [ ] They are strategies for discovering what the customer wants.
-- [ ] They are derived from statistical process control.
+- [x] آنها استراتژی هایی برای ارائه ارزش مشتری هستند.
+- [ ] آنها توسط تویوتا پیشگام بودند.
+- [ ] آنها استراتژی هایی برای کشف خواسته های مشتری هستند.
+- [ ] آنها از کنترل فرآیند آماری به دست می آیند.
 
 [Reference](https://agilemanifesto.org/principles) - First paragraph clearly points out that Agile is about delivering value to the customer. [Lean](https://en.wikipedia.org/wiki/Lean_software_development) is a subset of the Agile community and [Six Sigma](https://en.wikipedia.org/wiki/Six_Sigma) is Agile applied to manufacturing.
 
-#### Q78. What is a user story?
+## س78. داستان کاربر چیست؟
 
-- [ ] A description of what an actor wants to do in order to accomplish a goal
-- [ ] A description of archetypal users so the developers can make the solution user-friendly
-- [ ] A report from the field about a user's experience with the product
-- [x] The Agile term for a requirement
+- [ ] شرح کاری که یک بازیگر می خواهد انجام دهد تا به هدفی دست یابد
+- [ ] شرحی از کاربران کهن الگویی تا توسعه دهندگان بتوانند راه حل را کاربر پسند کنند
+- [ ] گزارشی از میدان در مورد تجربه کاربر با محصول
+- [x] اصطلاح Agile برای یک نیاز
 
-#### Q79. What is the expected output of a Planning Poker meeting?
+## س79. خروجی مورد انتظار یک جلسه پوکر برنامه ریزی چیست؟
 
-- [x] The stories were discussed and each had a story point estimate assigned.
-- [ ] The team gave feedback to the Product Owner about the acceptance criteria.
-- [ ] The team decided what stories should be developed within the same sprint.
-- [ ] The team made a preliminary plan for which stories will be completed in the next quarter.
+- [x] داستان ها مورد بحث قرار گرفتند و هر کدام یک تخمین نقطه داستان تعیین کردند.
+- [ ] تیم درباره معیارهای پذیرش به صاحب محصول بازخورد داد.
+- [ ] تیم تصمیم گرفت که چه داستان هایی باید در همان سرعت توسعه یابد.
+- [ ] این تیم یک برنامه اولیه را انجام داد که داستان ها در سه ماهه آینده تکمیل می شوند.
 
-#### Q80. What is the definition of velocity?
+## س80. تعریف سرعت چیست؟
 
-- [x] The number of story points delivered during a sprint
-- [ ] The average waiting time for a story on the sprint backlog
-- [ ] The average wait time for a story to move from the product backlog to the sprint backlog
-- [ ] The time it takes a developer to complete a story divided by its relative value
+- [x] تعداد نقاط داستانی ارائه شده در طول یک سرعت
+- [ ] میانگین زمان انتظار برای یک داستان در بک لاگ اسپرینت
+- [ ] میانگین زمان انتظار برای انتقال یک داستان از بک لاگ محصول به بک لاگ اسپرینت
+- [ ] زمانی که توسعه دهنده برای تکمیل یک داستان تقسیم بر ارزش نسبی آن طول می کشد
 
-#### Q81. What is most important for a successful Product Owner to understand?
+## س81. برای یک صاحب محصول موفق درک چه چیزی مهم است؟
 
-- [ ] The budget for the product.
-- [ ] The underlying technology of the product.
-- [ ] The development team's strengths and weaknesses.
-- [x] The business context for the product.
+- [ ] بودجه برای محصول
+- [ ] تکنولوژی زیربنایی محصول.
+- [ ] نقاط قوت و ضعف تیم توسعه
+- [x] زمینه کسب و کار برای محصول
 
 [Source](https://premieragile.com/how-does-a-product-owner-measure-value) `A Scrum Team has 3 roles - Product Owner, Scrum Master and Developers. All 3 roles generate Value in their own contexts; however, it is the Product Owner who maximizes the Value from a product or business context.`
 
-#### Q82. Which statement about the Agile Manifesto is true?
+## س82.  کدام جمله در مورد مانیفست اجایل درست است؟
 
-- [ ] It was written via crowdsourcing and its authors are unknown.
-- [x] It has been translated into dozens of languages and used around the world.
-- [ ] It was written in 2001 and is obsolete.
-- [ ] It was first published as part of Jim Highsmith's doctoral thesis.
+- [ ] از طریق جمع سپاری نوشته شده است و نویسندگان آن ناشناخته هستند.
+- [x] به ده ها زبان ترجمه شده و در سراسر جهان مورد استفاده قرار گرفته است.
+- [ ] در سال 2001 نوشته شده و منسوخ شده است.
+- [ ] این اولین بار به عنوان بخشی از پایان نامه دکترای جیم هایسمیت منتشر شد.
 
-#### Q83. The team is not going to complete its Sprint Commitment. As the Team Facilitator, what should you do?
+## س83. این تیم قرار نیست تعهد اسپرینت خود را تکمیل کند. به عنوان تسهیلگر تیم، چه کاری باید انجام دهید؟
 
-- [ ] Ask the PO to extend the sprint.
-- [ ] Advise the PO as soon as possible.
-- [ ] Report this at the Sprint Review.
-- [x] Point out the reasons why and collaborate on solutions.
+- [ ] از PO بخواهید اسپرینت را تمدید کند.
+- [ ] در اسرع وقت به PO مشاوره دهید.
+- [ ] این را در Sprint Review گزارش دهید.
+- [x] به دلایل آن اشاره کنید و در راه حل ها همکاری کنید.
 
 [Reference](https://agilemanifesto.org/principles), the last paragraph perfectly informs what an agile developer would do in this situation.
 
-#### Q84. When a user story is further decomposed, what are the elements called?
+## س84. هنگامی که یک داستان کاربر بیشتر تجزیه می شود، عناصر چه نامیده می شوند؟
 
-- [ ] technical tasks
-- [ ] actors and actions
-- [x] Who, What, Why
-- [ ] threads
+- [ ] وظایف فنی
+- [ ] بازیگران و کنش ها
+- [x] کی، چی، چرا
+- [ ] موضوعات
 
-#### Q85. What does collective ownership mean?
+## س85. مالکیت جمعی به چه معناست؟
 
-- [ ] Every member of the team can make changes to any part of the code as necessary.
-- [ ] If someone is at fault, then the whole team is at fault.
-- [x] The team shares equally in the profits that the product generates.
-- [ ] The team, not the individuals, receive performance evaluations.
+- [ ] هر عضو تیم می تواند در صورت لزوم در هر قسمت از کد تغییرات ایجاد کند.
+- [ ] اگر کسی مقصر است، پس کل تیم مقصر هستند.
+- [x] تیم به طور مساوی در سودی که محصول ایجاد می کند سهیم است.
+- [ ] تیم، نه افراد، ارزیابی عملکرد را دریافت می کنند.
 
-#### Q86. According to the Agile Manifesto, how often should developers and business people work together?
+## س86. با توجه به مانیفست چابک، توسعه دهندگان و افراد تجاری هر چند وقت یک بار باید با هم کار کنند؟
 
-- [ ] as often as needed
-- [ ] biweekly
-- [x] daily
-- [ ] weekly
+- [ ] به مقداری که لازم است
+- [ ] دوهفته ای
+- [x] روزانه
+- [ ] هفتگی
 
-#### Q87. What do you call the practice of writing a test before the code is written?
+## س87. تمرین نوشتن تست قبل از نوشتن کد را چه می نامید؟
 
-- [ ] design for testability
-- [x] test-driven development
-- [ ] unit testing
-- [ ] test then code
+- [ ] طراحی برای آزمایش پذیری
+- [x] توسعه آزمایش محور
+- [ ] تست واحد
+- [ ] تست کنید سپس کد بزنید
 
-#### Q88. What is the term for a team member who is "T-skilled"?
+## س88.  اصطلاح برای یک عضو تیم که "T-skilled" است چیست؟
 
-- [x] cross-functional
-- [ ] jack-of-all-trades
-- [ ] apprentice developer
-- [ ] generalizing specialist
+- [x] متقابل عملکردی
+- [ ] همه کاره
+- [ ] توسعه دهنده شاگرد
+- [ ] متخصص عمومی
 
-#### Q89. Which statement is _not_ true about pair programming?
+## س89.  کدام عبارت در مورد برنامه نویسی زوجی درست نیست ؟
 
-- [x] It has been discredited because it is too expensive.
-- [ ] In pair programming, two developers share one computer and take turns at the keyboard.
-- [ ] It is a great way to teach someone who is new to the team.
-- [ ] The code produced by two developers who are collaborating is typically higher quality than if they were working alone.
+- [x] به دلیل گرانی آن بی اعتبار شده است.
+- [ ] در برنامه‌نویسی زوجی، دو توسعه‌دهنده از یک کامپیوتر مشترک استفاده می‌کنند و به نوبت از صفحه کلید استفاده می‌کنند.
+- [ ] این یک راه عالی برای آموزش به کسی است که تازه وارد تیم شده است.
+- [ ] کد تولید شده توسط دو توسعه دهنده که با هم همکاری می کنند معمولاً کیفیت بالاتری نسبت به زمانی دارد که آنها به تنهایی کار می کردند.
 
-#### Q90. People with a fixed mindset \_ .
+## س90.  افراد با ذهنیت ثابت _
 
-- [x] have better focus and longer attention spans
-- [ ] are more goal oriented
-- [ ] tend to be more resilient
-- [ ] are more afraid of failure
+- [x] تمرکز بهتر و فاصله توجه طولانی تری داشته باشد
+- [ ] بیشتر هدف گرا هستند
+- [ ] تمایل به انعطاف پذیری بیشتری دارند
+- [ ] بیشتر از شکست می ترسند
 
-#### Q91. How can you impove interaction between team members?
+## 91. چگونه می توانید تعامل بین اعضای تیم را تقویت کنید؟
 
-- [x] Move people's workstations around in the team room to create new social possibilities.
-- [ ] Ask the team if they would like to do something recreational together and offer to organize it.
-- [ ] Tell the team that you see this as a problem and ask them to solve it.
-- [ ] Since no one has come to you with a complaint, assume that the limited interaction works for everyone.
+- [x] برای ایجاد امکانات اجتماعی جدید، ایستگاه های کاری افراد را در اتاق تیم جابه جا کنید.
+- [ ] از تیم بپرسید که آیا دوست دارند با هم کاری تفریحی انجام دهند و پیشنهاد سازماندهی آن را بدهید.
+- [ ] به تیم بگویید که این مشکل را می بینید و از آنها بخواهید آن را حل کنند.
+- [ ] از آنجایی که هیچ کس با شما شکایت نکرده است، فرض کنید که تعامل محدود برای همه مفید است.
 
-#### Q92. What is the expected outcome of the daily stand-up meeting?
+## س92. نتیجه مورد انتظار جلسه استندآپ روزانه چیست؟
 
-- [ ] updated status on all of the work
-- [x] team alignment on its plan for the day
-- [ ] a list of impediments and priorities
-- [ ] a report to the Product Owner of stories ready to be accepted
+- [ ] وضعیت به روز شده در همه کارها
+- [x] هماهنگی تیم در برنامه روز
+- [ ] فهرستی از موانع و اولویت ها
+- [ ] گزارشی به صاحب محصول از داستان ها آماده پذیرش است
 
-#### Q93. What is the name of the technique in which a story includes an input, a translation of input to output, and an output?
+## س93. نام تکنیکی که در آن یک داستان شامل ورودی، ترجمه ورودی به خروجی و خروجی است چیست؟
 
-- [x] input-output processing
-- [ ] ITIOO story format
-- [ ] thin vertical slice
-- [ ] structured coding
+- [x] پردازش ورودی-خروجی
+- [ ] قالب داستان ITIOO
+- [ ] برش عمودی نازک
+- [ ] کدگذاری ساخت یافته
 
-ITIOO isn't a thing, thin verticle slicing is refering to what work you prioritise, and structured code has nothing to so with stories.
+ITIOO چیزی نیست، برش رئوس نازک به کاری که شما در اولویت قرار می دهید اشاره دارد، و کد ساختاریافته هیچ ارتباطی با داستان ها ندارد.
 
-#### Q94. What is the term for a team member who is "T-shaped"?
+## س94.  اصطلاح برای عضوی از تیم که "T شکل" است چیست؟
 
-- [x] cross-functional
-- [ ] jack-of-all-trades
-- [ ] generalizing specialist
-- [ ] apprentice developer
+- [x] متقابل عملکردی
+- [ ] همه کاره
+- [ ] متخصص عمومی
+- [ ] توسعه دهنده شاگرد
 
-[Source](https://www.adventureswithagile.com/2017/07/12/heres-thing-t-shaped-people/) `One of the challenges for organisations when they move to Agile ways of working is the often mentioned need to build teams made up of “T-shaped” people. This can also be described as a cross-functionality.`
+[منبع](https://www.adventureswithagile.com/2017/07/12/heres-thing-t-shaped-people/) `One of the challenges for organisations when they move to Agile ways of working is the often mentioned need to build teams made up of “T-shaped” people. This can also be described as a cross-functionality.`
 
-#### Q95. What is a lean canvas?
+## س95. بوم لاغر چیست؟
 
-- [ ] decompose solution into epics, features, and stories
-- [x] template for lightweight business plans that makes your assumptions explicit
-- [ ] tool to plan future project releases
-- [ ] technique for projecting growth in market share.
+- [ ] حل را به حماسه ها، ویژگی ها و داستان ها تجزیه کنید
+- [x] الگویی برای طرح های تجاری سبک وزن که مفروضات شما را صریح می کند
+- [ ] ابزاری برای برنامه ریزی انتشار پروژه های آینده
+- [ ] تکنیک برای پیش بینی رشد در سهم بازار
 
-[Source](http://ask.leanstack.com/en/articles/901274-what-is-a-lean-canvas) `1-page business plan template that helps you deconstruct your idea into its key assumptions using 9 basic building blocks.`
+[منبع](http://ask.leanstack.com/en/articles/901274-what-is-a-lean-canvas) `1-page business plan template that helps you deconstruct your idea into its key assumptions using 9 basic building blocks.`
 
-#### Q96. The team is not going to complete its Sprint Commitment. As Team Facilitator, what should you do?
+## س96. این تیم قرار نیست تعهد اسپرینت خود را تکمیل کند. به عنوان تسهیلگر تیم، چه کاری باید انجام دهید؟
 
-- [ ] advise the PO as soon as possible
-- [ ] point out the reasons why and collaborate on solutions
-- [ ] report this at the Sprint Review
-- [x] Ask the PO to extend the sprint
+- [ ] در اسرع وقت به PO توصیه کنید
+- [ ] دلایل را ذکر کنید و در راه حل ها همکاری کنید
+- [ ] این را در Sprint Review گزارش دهید
+- [x] از PO بخواهید اسپرینت را تمدید کند
 
-[Source](https://mcqpoint.com/question/what-happens-when-all-the-sprint-items-cannot-be-completed/) `non verified answer - extend, otherwise goes to backlog`
+[منبع](https://mcqpoint.com/question/what-happens-when-all-the-sprint-items-cannot-be-completed/) `non verified answer - extend, otherwise goes to backlog`
 
-#### Q97. Which of these traits is most important for being an effective Team Facilitator?
+## س97. کدام یک از این ویژگی‌ها برای یک تیم تسهیل‌گر مؤثر مهم‌تر است؟
 
-- [x] being self-aware
-- [ ] being extroverted
-- [ ] having type A personality (def not this :P)
-- [ ] being someone who takes charge
+- [x] خودآگاه بودن
+- [ ] برون گرا بودن
+- [ ] داشتن تیپ شخصیتی A (البته این نیست :P)
+- [ ] کسی بودن که مسئولیت را بر عهده می گیرد
 
-[Source](https://www.globalknowledge.com/us-en/course/87262/agile-team-facilitation-icp-atf/) `non verified answer - A facilitator is someone who helps a group identify common objectives and then offers group processes to achieve defined outcomes while maintaining neutrality. A skilled facilitator consciously embodies self-awareness, self-management, and bias management, while conveying openness and enthusiasm. `
+[منبع](https://www.globalknowledge.com/us-en/course/87262/agile-team-facilitation-icp-atf/) `non verified answer - A facilitator is someone who helps a group identify common objectives and then offers group processes to achieve defined outcomes while maintaining neutrality. A skilled facilitator consciously embodies self-awareness, self-management, and bias management, while conveying openness and enthusiasm. `
 
-#### Q98. When is the best time to update the team's burndown chart?
+## س98. بهترین زمان برای به روز رسانی نمودار فرسودگی تیم چه زمانی است؟
 
-- [ ] before the Sprint Retospective
-- [ ] after the daily stand-up
-- [x] before the daily stand-up
-- [ ] before quarterly planning
+- [ ] قبل از Sprint Retospective
+- [ ] بعد از استندآپ روزانه
+- [x] قبل از استندآپ روزانه
+- [ ] قبل از برنامه ریزی فصلی
 
-#### Q99. What is Empathy Map?
+## س99. نقشه همدلی چیست؟
 
-- [ ] It is a team-building technique used to increase productivity.
-- [ ] It is a tool used by organizations for competitive intelligence.
-- [ ] It is a retrospective technique used to improve team morale.
-- [x] It is a collaborative tool used to gain deeper insights into customers.
+- [ ] این یک تکنیک تیم سازی است که برای افزایش بهره وری استفاده می شود.
+- [ ] این ابزاری است که توسط سازمان ها برای هوش رقابتی استفاده می شود.
+- [ ] این یک تکنیک گذشته نگر است که برای بهبود روحیه تیم استفاده می شود.
+- [x] این یک ابزار مشارکتی است که برای به دست آوردن بینش عمیق تر در مورد مشتریان استفاده می شود.
 
-#### Q100. Which work descriptions are not written in the language of users?
+## س100. کدام توضیحات کار به زبان کاربران نوشته نشده است؟
 
-- [ ] tasks
-- [ ] epics
-- [x] stories
-- [ ] features
+- [ ] وظایف
+- [ ] حماسه ها
+- [x] داستان ها
+- [ ] امکانات
 
-#### Q101. The team has an incomplete story at the end of the sprint and wants to claim partial credit for the work completed. What should you do?
+## س101. این تیم در پایان دوی سرعت داستان ناقصی دارد و می‌خواهد اعتبار جزئی را برای کار تکمیل شده دریافت کند. چه کاری باید انجام دهید؟
 
-- [ ] Ask the Product Owner to accept the storyy with the promise that the team will complete it in the next sprint
-- [ ] Ask them to slice the story to reflect the work done and the work to be done
-- [x] Ask the product owner to revise the acceptance criteria so it can be accepted and counted
-- [ ] explain that, in Agile, working software is the primary measure of progress. Then help...
+- [ ] از مالک محصول بخواهید که داستان را بپذیرد با این قول که تیم آن را در سرعت بعدی تکمیل کند
+- [ ] از آنها بخواهید داستان را برش دهند تا کار انجام شده و کاری که باید انجام شود را منعکس کنند
+- [x] از صاحب محصول بخواهید معیارهای پذیرش را اصلاح کند تا بتوان آن را پذیرفته و شمارش کرد
+- [ ] توضیح دهید که در Agile، نرم افزار کار معیار اولیه پیشرفت است. بعد کمک…
 
-#### Q102. When planning a meeting, which action is most important?
+## س102. هنگام برنامه ریزی یک جلسه، کدام اقدام مهمتر است؟
 
-- [x] clariying the expected outcome
-- [ ] taking notes
-- [ ] inviting the Project Manager
-- [ ] making sure everyone speaks
+- [x] شفاف سازی نتیجه مورد انتظار
+- [ ] یاداشت برداشتن
+- [ ] دعوت از مدیر پروژه
+- [ ] مطمئن شوید که همه صحبت می کنند
 
-#### Q103. You are facilitating a meeting and, unexpectedly, a key person doesn't attend. What should you do?
+## س103. شما یک جلسه را تسهیل می کنید و به طور غیرمنتظره، یک فرد کلیدی در آن شرکت نمی کند. چه کاری باید انجام دهید؟
 
-- [ ] Hold the meeting and update the person who could not attend later.
-- [ ] Ask the person who could not attend to reschedule the meeting based on their availability.
-- [x] Ask all meeting partecipants what they want to do about the one person's absence
-- [ ] Reschedule the meeting for when all necessary people can attend
+- [ ] جلسه را برگزار کنید و فردی را که نمی تواند بعداً شرکت کند به روز کنید.
+- [ ] از شخصی که نتوانسته است بخواهید جلسه را بر اساس در دسترس بودن خود برنامه ریزی کند.
+- [x] از همه شرکت کنندگان جلسه بپرسید که می خواهند در مورد غیبت یک نفر چه کنند
+- [ ] برای زمانی که همه افراد ضروری بتوانند در آن شرکت کنند، جلسه را دوباره برنامه ریزی کنید
 
-#### Q104. What is Open Space?
+## س104. فضای باز چیست؟
 
-- [ ] a design concept for team rooms
-- [ ] a room for teams to demo their work
-- [ ] a placeholder in the code body for the future functionality
-- [x] a meeting format where participants create and manage the agenda
+- [ ] یک مفهوم طراحی برای اتاق تیم
+- [ ] اتاقی برای تیم ها برای نمایش کارشان
+- [ ] یک مکان نگهدار در بدنه کد برای عملکرد آینده
+- [x] یک قالب جلسه که در آن شرکت کنندگان دستور کار را ایجاد و مدیریت می کنند
 
-#### Q105. Which choice is not an expected benefit of refactoring?
+## س105.  کدام گزینه یک مزیت مورد انتظار از refactoring نیست؟
 
-- [ ] Refactoring can reduce the effort for future development
-- [x] Refactoring is used to fix bugs
-- [ ] Refactoring improves the design of the system
-- [ ] Refactoring improves the maintainability of the code
+- [ ] Refactoring می تواند تلاش برای توسعه آینده را کاهش دهد
+- [x] Refactoring برای رفع اشکالات استفاده می شود
+- [ ] Refactoring طراحی سیستم را بهبود می بخشد
+- [ ] Refactoring قابلیت نگهداری کد را بهبود می بخشد
 
-#### Q106. In the Scaled Agile Framework, consecutive iterations are grouped together into a PI. What is a PI?
+## س106. در Scaled Agile Framework، تکرارهای متوالی در یک PI گروه بندی می شوند. PI چیست؟
 
-- [ ] Project Increment
-- [ ] Portfolio Increment
-- [ ] Product Increment
-- [x] Program Increment
+- [ ] افزایش پروژه
+- [ ] افزایش نمونه کارها
+- [ ] افزایش محصول
+- [x] افزایش برنامه
 
-[Source](https://www.scaledagileframework.com/program-increment/) `A Program Increment (PI) is a timebox during which an Agile Release Train (ART) delivers incremental value in the form of working, tested software and systems. PIs are typically 8 – 12 weeks long.`
+[منبع](https://www.scaledagileframework.com/program-increment/) `A Program Increment (PI) is a timebox during which an Agile Release Train (ART) delivers incremental value in the form of working, tested software and systems. PIs are typically 8 – 12 weeks long.`
 
-#### Q107. How an you improve interaction between team members?
+## س107. چگونه تعامل بین اعضای تیم را بهبود می دهید؟
 
-- [ ] Move people's workstation around in the team room to create new social possibilites
-- [ ] Since no one has come to you with a compliant, assume that the limited interaction works for everyone
-- [x] Ask the team if they would like to do something recreational together and offer to organize it
-- [ ] Tell the team that you see this as a problem and ask them to solve it
+- [ ] برای ایجاد امکانات اجتماعی جدید، ایستگاه کاری افراد را در اتاق تیم حرکت دهید
+- [ ] از آنجایی که هیچ کس با شما سازگار نشده است، فرض کنید که تعامل محدود برای همه کار می کند
+- [x] از تیم بپرسید که آیا دوست دارند با هم کاری تفریحی انجام دهند و پیشنهاد سازماندهی آن را بدهید
+- [ ] به تیم بگویید که این مشکل را می بینید و از آنها بخواهید آن را حل کنند
