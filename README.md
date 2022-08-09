@@ -22,5 +22,5 @@ And then you can see the history of Scrum and also Scrum in the framework of sof
 
 
 <img src="https://user-images.githubusercontent.com/92257857/183408659-be93c96f-7c31-4de5-bded-acea16ffce62.png" width="500" height="300">
-
-
+[doc]: agile-methodologies-quiz-fa.md
+This is a doc of quick method questions for Persian speakers
