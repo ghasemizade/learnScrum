@@ -1,306 +1,307 @@
-## Agile Methodologies
+# روش های اجایل
 
-#### Q1. زمانی که تیم ها به یک کاربر فنی احتیاج پیدا میکنند چه کسی اولویت این کار را تعیین میکند؟
+## س1. زمانی که تیم ها به یک کاربر فنی احتیاج پیدا میکنند چه کسی اولویت این کار را تعیین میکند؟
 
 - [ ] مالک محصول با کمک عملیات
 - [ ] رهبر فناوری با کمک مالک محصول
 - [x] مالک محصول با کمک رهبر فناوری
 - [ ] رهبری فنی با کمک عملیات
 
-#### Q2. What is the Scrum Master's role during the daily stand-up?
+## س2. نقش اسکرام مستر در استندآپ روزانه چیست؟
 
-- [ ] Congratulate the team on their great work.
-- [x] Stand outside the circle of developers and listen for impediments.
-- [ ] The Scrum Master should not attend—this meeting is for developers only.
-- [ ] Ask each developer what they did since the last daily standup.
+- [ ] به تیم بابت کار بزرگشان تبریک می گویم.
+- [x] خارج از دایره توسعه دهندگان بایستید و به موانع گوش دهید.
+- [ ] اسکرام مستر نباید شرکت کند - این جلسه فقط برای توسعه دهندگان است.
+- [ ] از هر توسعه دهنده بپرسید که از آخرین استند آپ روزانه چه کرده است.
 
-#### Q3. Which factor should not be considered during Sprint Planning?
+## س3. کدام عامل را نباید در برنامه ریزی اسپرینت در نظر گرفت؟
 
-- [ ] the team's velocity
-- [x] the number of stories in the product backlog
-- [ ] the stories that are ready
-- [ ] the team's capacity
+- [ ] سرعت تیم
+- [x] تعداد داستان های موجود در بک لاگ محصول
+- [ ] داستان هایی که آماده هستند
+- [ ] ظرفیت تیم
 
-#### Q4. A team member has been showing signs of great personal distress: crying at work, snapping at colleagues, having heated phone conversations. As Team Facilitator, what should you do?
+## س4. یکی از اعضای تیم نشانه‌هایی از ناراحتی شدید شخصی را نشان می‌دهد: گریه کردن در محل کار، کتک زدن به همکاران، داشتن مکالمات تلفنی عصبی. به عنوان تسهیلگر تیم، چه کاری باید انجام دهید؟
 
-- [ ] Give the team member space and time to deal with their personal issues.
-- [ ] Tell the others on the team that their teammate needs some emotional support.
-- [x] Notify the team member's manager of your observations and ask the manager for help.
-- [ ] Ask the team member if they would like to talk about what might be going on with them personally.
+- [ ] به اعضای تیم زمان و فضا بدهید تا به مسائل شخصی خود رسیدگی کنند.
+- [ ] به سایر اعضای تیم بگویید که هم تیمی آنها به حمایت عاطفی نیاز دارد.
+- [x] مشاهدات خود را به مدیر عضو تیم اطلاع دهید و از مدیر کمک بخواهید.
+- [ ] از اعضای تیم بپرسید که آیا مایلند در مورد آنچه ممکن است شخصاً با آنها اتفاق می افتد صحبت کنند.
 
-#### Q5. Which statement describes the flow of work in the Scaled Agile Framework?
+## س5.  کدام عبارت جریان کار را در Scaled Agile Framework توصیف می کند؟
 
-- [ ] It is a "push" system.
-- [ ] It is "push" at the top and "pull" at the bottom.
-- [ ] It is a "pull" system.
-- [x] It is neither "push" nor "pull."
+- [ ] این یک سیستم "push" است.
+- [ ] در بالا "push" و در پایین "pull" است.
+- [ ] این یک سیستم "pull" است.
+- [x] نه «فشار» است و نه «pull».
 
-#### Q6. What is the Product Owner's role in deciding the priority of work in the sprint backlog?
+## س6. نقش مالک محصول در تصمیم گیری اولویت کار در بک لاگ اسپرینت چیست؟
 
-- [ ] None—the Scrum Master should prioritize the work in the sprint backlog.
-- [ ] The PO should prioritize the items in the sprint backlog.
-- [ ] The developers prioritize work unless they cannot complete it, in which case the PO should prioritize the remaining work.
-- [x] None—the developers should prioritize the work in the sprint backlog.
+- [ ] هیچکدام - اسکرام مستر باید کار را در بک لاگ اسپرینت اولویت بندی کند.
+- [ ] PO باید موارد موجود در بک لاگ اسپرینت را اولویت بندی کند.
+- [ ] توسعه دهندگان کار را اولویت بندی می کنند مگر اینکه نتوانند آن را کامل کنند، در این صورت PO باید کارهای باقی مانده را اولویت بندی کند.
+- [x] هیچکدام—توسعه دهندگان باید کار را در بک لاگ اسپرینت اولویت بندی کنند.
 
-#### Q7. The Scaled Agile Framework advocates that, if you measure only one thing, what should you measure?
+## س7.  Scaled Agile Framework مدافع این است که اگر فقط یک چیز را اندازه گیری کنید، چه چیزی را باید اندازه بگیرید؟
 
-- [ ] quality
-- [ ] predictability of delivery
-- [x] cost of delay
-- [ ] return on investment
+- [ ] کیفیت
+- [ ] قابل پیش بینی بودن تحویل
+- [x] هزینه تاخیر
+- [ ] بازگشت سرمایه گذاری
 
-#### Q8. Why should you apply Weighted Shortest Job First?
+## س8.  چرا باید اول کار Weighted Shortest Job را اعمال کنید؟
 
-- [ ] to maximize the return on investment
-- [x] to determine the economic sequencing of the backlog
-- [ ] to visualize queue length
-- [ ] to fulfill a commitment to quality
+- [ ] برای به حداکثر رساندن بازگشت سرمایه
+- [x] برای تعیین توالی  عقب ماندگی اقتصادی
+- [ ] برای تجسم طول صف
+- [ ] برای انجام تعهد به کیفیت
 
-[Source](https://www.scaledagileframework.com/wsjf/) `Weighted Shortest Job First (WSJF) is a prioritization model used to sequence jobs (eg., Features, Capabilities, and Epics) to produce the maximum economic benefit. In a flow-based system, priorities are updated continuously to provide the best economic outcomes. Job sequencing, rather than individual job return on investment, produces the best result. To that end, WSJF is used to prioritize backlogs by calculating the relative CoD and job size (a proxy for the duration).`
+[منبع](https://www.scaledagileframework.com/wsjf/) `Weighted Shortest Job First (WSJF) is a prioritization model used to sequence jobs (eg., Features, Capabilities, and Epics) to produce the maximum economic benefit. In a flow-based system, priorities are updated continuously to provide the best economic outcomes. Job sequencing, rather than individual job return on investment, produces the best result. To that end, WSJF is used to prioritize backlogs by calculating the relative CoD and job size (a proxy for the duration).`
 
-#### Q9. You have classified the features in your backlog according to risk and value. Which features should the development team work on first?
+## Q9. شما ویژگی های موجود در بک لاگ خود را بر اساس ریسک و ارزش طبقه بندی کرده اید. تیم توسعه ابتدا باید روی کدام ویژگی کار کند؟
 
-- [ ] low-value and high-risk
-- [x] high-value and high-risk
-- [ ] high-value and low-risk
-- [ ] low-value and low-risk
+- [ ] کم ارزش و پر خطر
+- [x] با ارزش و پرخطر
+- [ ] با ارزش بالا و کم خطر
+- [ ] کم ارزش و کم خطر
 
-[Source](https://agilescrumguide.com/blog/files/tag-product-backlog---business-value-and-risk.html) `It is suggested that high business value, high-risk items are worked on first. While that may seem counterintuitive, the earlier this work is done, the sooner the team will move to mitigate the issues and unknowns—leading to a higher quality product. If there's a failure, it will occur early and relatively inexpensively.`
+[منبع](https://agilescrumguide.com/blog/files/tag-product-backlog---business-value-and-risk.html) `It is suggested that high business value, high-risk items are worked on first. While that may seem counterintuitive, the earlier this work is done, the sooner the team will move to mitigate the issues and unknowns—leading to a higher quality product. If there's a failure, it will occur early and relatively inexpensively.`
 
-#### Q10. In the Scaled Agile Framework, what is the role of Enablers?
+## س10. در چارچوب Scaled Agile، نقش Enablers چیست؟
 
-- [x] They help extend the Architectural Runway.
-- [ ] They connect vision to mission so the organization can be successful.
-- [ ] They support team building.
-- [ ] They remove the impediments to quality.
+- [x] آنها به گسترش باند معماری کمک می کنند.
+- [ ] آنها چشم انداز را به ماموریت متصل می کنند تا سازمان بتواند موفق باشد.
+- [ ] آنها از تیم سازی حمایت می کنند.
+- [ ] آنها موانع کیفیت را برطرف می کنند.
 
-#### Q11. Which outcome is not expected of a Sprint Review?
+## س11. کدام نتیجه از بررسی اسپرینت انتظار نمی رود؟
 
-- [ ] The team demonstrates its completed work.
-- [x] The team reflects on how to improve its performance.
-- [ ] Items in the backlog may be reprioritized.
-- [ ] Stakeholders give feedback about the work completed.
+- [ ] این تیم کار کامل خود را نشان می دهد.
+- [x] تیم در مورد چگونگی بهبود عملکرد خود فکر می کند.
+- [ ] اقلام موجود در فهرست عقب مانده ممکن است در اولویت قرار گیرند.
+- [ ] ذینفعان در مورد کار تکمیل شده بازخورد می دهند.
 
-#### Q12. What is not a technique used for splitting user stories?
+## س12. چه تکنیکی برای تقسیم داستان های کاربر استفاده نمی شود؟
 
-- [ ] split by line-of-business
-- [x] split compound user stories
-- [ ] split by alternative paths
-- [ ] split by interface
+- [ ] تقسیم بر خط کسب و کار
+- [x] تقسیم داستان های کاربری ترکیبی
+- [ ] توسط مسیرهای جایگزین تقسیم می شود
+- [ ] تقسیم بر اساس رابط
 
-#### Q13. Who decides what the team will work on?
+## س13. چه کسی تصمیم می گیرد که تیم روی چه چیزی کار کند؟
 
-- [ ] the Scrum Master
-- [x] a self-organizing team
-- [ ] the Product Owner
-- [ ] the Product Manager
+- [ ] اسکرام مستر
+- [x] یک تیم خودسازمانده
+- [ ] مالک محصول
+- [ ] مدیر محصول
 
-#### Q14. Which choice is not a Scrum value?
+## س14.  کدام گزینه یک مقدار اسکرام نیست؟
 
-- [ ] focus
-- [x] integrity
-- [ ] courage
-- [ ] commitment
+- [ ] تمرکز
+- [x] تمامیت
+- [ ] شجاعت
+- [ ] تعهد
 
-#### Q15. What should happen if the Product Owner does not accept a story by the end of the iteration?
+## س15. اگر مالک محصول در پایان تکرار داستانی را نپذیرد، چه اتفاقی باید بیفتد؟
 
-- [ ] The team does not get credit for the story's points in its velocity calculation.
-- [ ] The story should be sliced to reflect the work completed.
-- [ ] The acceptance criteria should be adjusted to reflect the work completed.
-- [x] The story should be shown to stakeholders for their feedback.
+- [ ] تیم برای امتیازات داستان در محاسبه سرعت خود اعتباری دریافت نمی کند.
+- [ ] داستان باید برش داده شود تا کار تکمیل شده را منعکس کند.
+- [ ] معیارهای پذیرش باید طوری تنظیم شوند که کار تکمیل شده را منعکس کنند.
+- [x] داستان باید به ذینفعان برای بازخورد آنها نشان داده شود.
 
-#### Q16. Which statement is not true about the product backlog?
+## س16. کدام عبارت در مورد بک لاگ محصول درست نیست؟
 
-- [x] It is a list of work items that are behind schedule.
-- [ ] The items are maintained in priority order.
-- [ ] Anyone on the team can propose an item for it.
-- [ ] It includes all of the work to be done.
+- [x] این لیستی از موارد کاری است که از برنامه عقب مانده اند.
+- [ ] اقلام به ترتیب اولویت نگهداری می شوند.
+- [ ] هر کسی در تیم می تواند یک مورد برای آن پیشنهاد دهد.
+- [ ] این شامل تمام کارهایی است که باید انجام شود.
 
-#### Q17. A project has some major risks that the team wants to mitigate. What is the best way to monitor how well this effort is going?
+## Q17. یک پروژه خطرات عمده ای دارد که تیم می خواهد آنها را کاهش دهد. بهترین راه برای نظارت بر اینکه این تلاش چقدر خوب پیش می رود چیست؟
 
-- [ ] risk-based spike
-- [ ] risk-adjusted backlog
-- [ ] risk velocity chart
-- [x] risk burndown graph
+- [ ] سنبله مبتنی بر ریسک
+- [ ] عقب ماندگی تعدیل شده با ریسک
+- [ ] نمودار سرعت ریسک
+- [x] نمودار فرسودگی ریسک
 
-#### Q18. The VP of Engineering wants to start giving out a "Team Member of the Sprint" award to recognize a top performer in each group. What advice should you give this VP?
+## س18. معاون مهندسی می‌خواهد شروع به اعطای جایزه «عضو تیم اسپرینت» کند تا بهترین عملکرد را در هر گروه به رسمیت بشناسد. چه توصیه ای باید به این معاونت بدهید؟
 
-- [ ] This is unhelpful unless there has been recent employee feedback indicating that people feel underappreciated.
-- [ ] This is a good idea as long as a different person is recognized in each sprint.
-- [ ] This is a good idea because awards can motivate people to do their best.
-- [x] This is unhelpful because it can destroy the team unity essential to achieving high performance.
+- [ ] این کار مفیدی نیست مگر اینکه اخیراً بازخوردی از کارمندان وجود داشته باشد که نشان دهد مردم احساس می‌کنند مورد قدردانی قرار نمی‌گیرند.
+- [ ] این ایده خوبی است تا زمانی که فرد متفاوتی در هر دوی سرعت شناسایی شود.
+- [ ] این ایده خوبی است زیرا جوایز می توانند به افراد انگیزه دهند تا بهترین کار خود را انجام دهند.
+- [x] این بی فایده است زیرا می تواند اتحاد تیم را که برای دستیابی به عملکرد بالا ضروری است، از بین ببرد.
 
-#### Q19. What is a difference between a team's task board and a Kanban?
+## س19. تفاوت بین Task Board و Kanban چیست؟
 
-- [x] A Kanban has an explicit rule to limit WIP.
-- [ ] A Kanban shows the backlog of work.
-- [ ] A Kanban does not use a Definition of Done.
-- [ ] A Kanban shows the status of the work items.
+- [x]  کانبان یک قانون صریح برای محدود کردن WIP دارد.
+- [ ]  کانبان عقب ماندگی کار را نشان می دهد.
+- [ ]  کانبان از تعریف Done استفاده نمی کند.
+- [ ]  کانبان وضعیت موارد کار را نشان می دهد.
 
-[Source](https://www.lucidchart.com/blog/kanban-vs-scrum#:~:text=Kanban%20vs%20scrum) `Explicit rule applies to scrum team's task board: tasks cannot be added to the scrum board in the middle of a sprint.`
+[منبع](https://www.lucidchart.com/blog/kanban-vs-scrum#:~:text=Kanban%20vs%20scrum) `Explicit rule applies to scrum team's task board: tasks cannot be added to the scrum board in the middle of a sprint.`
 
-#### Q20. The team complains that "things have been falling through the cracks lately." What should you do?
+## س20. این تیم شکایت دارد که "اخیراً همه چیز از بین رفته است." چه کاری باید انجام دهید؟
 
-- [ ] Ask the team's manager to make role assignments so the team can catch up.
-- [x] Conduct a workshop to identify all of the things that need to be done and see who can help with each.
-- [ ] Refer to the team's RACI (Responsible, Accountable, Consulted, Informed) assignments.
-- [ ] Meet with the Tech Lead and Product Owner to try to identify what can be done.
+- [ ] از مدیر تیم بخواهید که نقشی را تعیین کند تا تیم بتواند عقب بماند.
+- [x] کارگاهی را برای شناسایی تمام کارهایی که باید انجام شود برگزار کنید و ببینید چه کسی می تواند در مورد هر کدام کمک کند.
+- [ ] به تکالیف RACI (مسئول، پاسخگو، مشورت شده، مطلع) تیم مراجعه کنید.
+- [ ] با سرپرست فنی و مالک محصول ملاقات کنید تا سعی کنید آنچه را که می توان انجام داد شناسایی کنید.
 
-#### Q21. In Large-Scale Scrum, what is the recommended ratio of Scrum Masters to teams?
+## س21. در اسکرام مقیاس بزرگ، نسبت پیشنهادی اسکرام مسترز به تیم ها چقدر است؟
 
-- [ ] One Scrum Master can support up to five teams.
-- [ ] Large teams should have two Scrum Masters.
-- [ ] There should be one Scrum Master per team.
-- [x] One Scrum Master can support one to three teams.
+- [ ] یک اسکرام مستر می تواند تا پنج تیم را پشتیبانی کند.
+- [ ] تیم های بزرگ باید دو اسکرام مستر داشته باشند.
+- [ ] در هر تیم باید یک اسکرام مستر وجود داشته باشد.
+- [x] یک اسکرام مستر می تواند از یک تا سه تیم پشتیبانی کند.
 
-#### Q22. In the Cynefin framework, where are "best practices" most appropriate?
+## س22. در چارچوب Cynefin، «بهترین شیوه‌ها» در کجا مناسب‌تر هستند؟
 
-- [ ] in the Complex regime
-- [ ] in the Complicated regime
-- [ ] in the Chaotic regime
-- [x] in the Obvious regime
+- [ ] در رژیم مجتمع
+- [ ] در رژیم پیچیده
+- [ ] در رژیم هرج و مرج
+- [x] در رژیم آشکار
 
-#### Q23. A manager informs you that a developer from another team is between assignments, and she wants to place the developer on your team for a few sprints. What should you do?
+## س23. مدیری به شما اطلاع می‌دهد که توسعه‌دهنده‌ای از تیم دیگر بین تکالیف است و می‌خواهد توسعه‌دهنده را برای چند سرعت در تیم شما قرار دهد. چه کاری باید انجام دهید؟
 
-- [x] Explain to the manager that this will be disruptive to the team and ask that another assignment be found.
-- [ ] Explain the situation to the team and ask them to go with the flow.
-- [ ] Explain the situation to your manager and ask them to resolve it.
-- [ ] When the temporary developer shows up, assign them to write documentation.
+- [x] به مدیر توضیح دهید که این کار باعث اختلال در تیم خواهد شد و بخواهید که تکلیف دیگری پیدا شود.
+- [ ] وضعیت را برای تیم توضیح دهید و از آنها بخواهید که با جریان حرکت کنند.
+- [ ] وضعیت را برای مدیر خود توضیح دهید و از او بخواهید آن را حل کند.
+- [ ] وقتی توسعه‌دهنده موقت ظاهر شد، آنها را به نوشتن اسناد اختصاص دهید.
 
-#### Q24. The Product Owner complains to you that the team is not working hard enough and they need to increase their velocity by at least 50%. Which action should you not take?
+## س24.  محصول از شما شکایت می کند که تیم به اندازه کافی سخت کار نمی کند و آنها باید سرعت خود را حداقل 50٪ افزایش دهند. کدام اقدام را نباید انجام دهید؟
 
-- [x] Share the feedback from the PO and challenge the team to increase their velocity.
-- [ ] Ask the PO to explain the business context to the team.
-- [ ] Explain the impact of technical debt to the PO and the benefits of devoting some capacity to reducing it.
-- [ ] Hold a Value Stream Mapping workshop to identify and reduce waste.
+- [x] بازخورد PO را به اشتراک بگذارید و تیم را برای افزایش سرعت خود به چالش بکشید.
+- [ ] از PO بخواهید که زمینه کسب و کار را برای تیم توضیح دهد.
+- [ ] تأثیر بدهی فنی به PO و مزایای اختصاص مقداری ظرفیت برای کاهش آن را توضیح دهید.
+- [ ] برای شناسایی و کاهش ضایعات، کارگاه نقشه برداری جریان ارزش برگزار کنید.
 
-#### Q25. What is the name of the practice in which a cross-functional team collaborates intensively to develop a new product idea?
+## س25.  نام عملی که در آن یک تیم متقابل به طور فشرده برای توسعه یک ایده محصول جدید همکاری می کند چیست؟
 
-- [x] Hackathon
-- [ ] Scrum at Scale
-- [ ] Innovation and Planning
-- [ ] Magnum Focus
+- [x] هکاتون
+- [ ] اسکرام در مقیاس
+- [ ] نوآوری و برنامه ریزی
+- [ ] تمرکز عالی
 
-#### Q26. The team's manager wants to attend the Sprint Retrospective. What should you do?
+## س26. مدیر تیم می خواهد در اسپرینت رتروسپکتیو شرکت کند. چه کاری باید انجام دهید؟
 
-- [ ] Agree to the manager's request and notify the team.
-- [ ] Propose that the manager attend only every other retrospective.
-- [x] Propose a different forum for the manager to meet with the team.
-- [ ] Ask the team if it is okay with them that the manager attend.
+- [ ] با درخواست مدیر موافقت کنید و به تیم اطلاع دهید.
+- [ ] پیشنهاد کنید که مدیر فقط در هر جلسه گذشته نگر دیگری شرکت کند.
+- [x] پیشنهاد یک انجمن متفاوت برای مدیر برای ملاقات با تیم.
+- [ ] از تیم بپرسید که آیا حضور مدیر با آنها مشکلی ندارد.
 
-#### Q27. Who is responsible for a Scrum team's performance?
+## س27. چه کسی مسئول عملکرد یک تیم اسکرام است؟
 
-- [x] the team
-- [ ] the Scrum Master
-- [ ] the Product Owner
-- [ ] the Engineering Manager
+- [x] تیم
+- [ ] اسکرام مستر
+- [ ] مالک محصول
+- [ ] مدیر مهندسی
 
-#### Q28. Which statement concerning small, frequent releases of software is true?
+## س28. کدام عبارت در مورد انتشارهای کوچک و مکرر نرم افزار درست است؟
 
-- [ ] The chance for rollback is high.
-- [x] It typically requires a high degree of automation.
-- [ ] The administrative costs are high.
-- [ ] Backward compatibility may be jeopardized.
+- [ ] شانس برگشت زیاد است.
+- [x] معمولاً به درجه بالایی از اتوماسیون نیاز دارد.
+- [ ] هزینه های اداری بالاست
+- [ ] سازگاری با عقب ممکن است به خطر بیفتد.
 
-#### Q29. What is the activity of clarifying and expanding user stories called?
+## س29. فعالیت شفاف سازی و گسترش داستان کاربران چیست؟
 
-- [ ] story point estimating
-- [ ] Definition of Done
-- [ ] user story expansion
-- [x] backlog refinement
+- [ ] تخمین نقطه داستان
+- [ ] تعریف انجام
+- [ ] گسترش داستان کاربر
+- [x] پالایش عقب مانده
 
-#### Q30. Which strategy is preferred for development teams?
+## س30. کدام استراتژی برای تیم های توسعه ترجیح داده می شود؟
 
-- [ ] Optimize for most work done.
-- [ ] Maximize output and maximize outcome.
-- [x] Maximize outcome while minimizing output.
-- [ ] Optimize for resource utilization.
+- [ ] برای اکثر کارهای انجام شده بهینه سازی کنید.
+- [ ] به حداکثر رساندن خروجی و به حداکثر رساندن نتیجه.
+- [x] نتیجه را به حداکثر برسانید در حالی که خروجی را به حداقل برسانید.
+- [ ] بهینه سازی برای استفاده از منابع
 
-`“…your job is to minimize output, and maximize outcome and impact.” - Jeff Patton`
+"...کار شما این است که خروجی را به حداقل برسانید و نتیجه و تاثیر را به حداکثر برسانید." - جف پاتون
 
-#### Q31. Which statement is true about the actor in a user story?
+## س31. کدام عبارت در مورد بازیگر یک داستان کاربری درست است؟
 
-- [ ] The actor does not have to be a specified role in the solution.
-- [ ] There must be multiple personas for each actor.
-- [x] The actor can be the system itself.
-- [ ] The system cannot be the actor.
+- [ ] لازم نیست بازیگر نقش مشخصی در راه حل داشته باشد.
+- [ ] برای هر بازیگر باید چندین شخصیت وجود داشته باشد.
+- [x] بازیگر می تواند خود سیستم باشد.
+- [ ] نظام نمی تواند بازیگر باشد.
 
-#### Q32. Which statement is true about Agile?
+## س32. کدام عبارت در مورد Agile درست است؟
 
-- [ ] Agile requires a high degree of up-front planning.
-- [ ] Once the requirements are agreed to, the team can complete work.
-- [x] Agile requires a high degree of discipline.
-- [ ] Agile works best when there is no contract.
+- [ ] چابک به درجه بالایی از برنامه ریزی اولیه نیاز دارد.
+- [ ] پس از موافقت با الزامات، تیم می تواند کار را تکمیل کند.
+- [x] چابک به درجه بالایی از انضباط نیاز دارد.
+- [ ] Agile زمانی بهترین کار را می کند که قراردادی وجود نداشته باشد.
 
-#### Q33. Which statement about burndown and burnup charts is not true?
+## س33. کدام عبارت در مورد نمودارهای فرسودگی و سوختن درست نیست؟
 
-- [ ] Burndown charts show the work remaining to be done.
-- [ ] Burnup charts show the work completed.
-- [x] Burndown charts are more useful than burnup charts.
-- [ ] Agile project management tools can produce these automatically.
+- [ ] نمودارهای فرسودگی کار باقی مانده برای انجام را نشان می دهد.
+- [ ] نمودارهای Burnup کار تکمیل شده را نشان می دهد.
+- [x] نمودارهای فرسودگی مفیدتر از نمودارهای سوختگی هستند.
+- [ ] ابزارهای مدیریت پروژه چابک می توانند این موارد را به صورت خودکار تولید کنند.
 
-#### Q34. What is the name for the practice of going to see a process in use at the point of value delivery?
+## س34. نام عمل مشاهده فرآیند در حال استفاده در نقطه تحویل ارزش چیست؟
 
-- [ ] Six Sigma
-- [x] Gemba walk
-- [ ] Total Quality Management
-- [ ] Kaizen
+- [ ] شش سیگما
+- [x] گمبا راه می رود
+- [ ] مدیریت کیفیت جامع
+- [ ] کایزن
 
-#### Q35. When the team needs to make a decision, what is the best course of action?
+## س35. وقتی تیم نیاز به تصمیم گیری دارد، بهترین اقدام چیست؟
 
-- [x] Try to achieve concensus.
-- [ ] Take a vote and the majority rules.
-- [ ] Identify the person who is most knowledgeable and ask them to decide.
-- [ ] Let the most senior member of the team decide.
+- [x] برای رسیدن به اجماع تلاش کنید.
+- [ ] رای بدهید و اکثریت حکم می کند.
+- [ ] فردی که از همه بیشتر آگاه است را شناسایی کنید و از آنها بخواهید تصمیم بگیرند.
+- [ ] اجازه دهید ارشدترین عضو تیم تصمیم بگیرد.
 
-#### Q36. Which action is something the Team Facillitator should NOT do?
+## س36. کدام عمل کاری است که تسهیلگر تیم نباید انجام دهد؟
 
-- [ ] Embrace servant leadership.
-- [x] Estimate story points.
-- [ ] Celebrate successes.
-- [ ] Remove impediments
+- [ ] رهبری خدمتگزار را در آغوش بگیرید.
+- [x] امتیاز داستان را تخمین بزنید
+- [ ] موفقیت ها را جشن بگیرید.
+- [ ] موانع را بردارید
 
-#### Q37. A team needs to do research, design, or prototyping. What is this type of story called?
+## س37. یک تیم باید تحقیق، طراحی یا نمونه سازی انجام دهد. اسم این نوع داستان چیست؟
 
-- [x] Exploratory spike
-- [ ] Backlog refinement
-- [ ] Functional decomposition
-- [ ] R&D
+- [x] خوشه اکتشافی
+- [ ] پالایش عقب مانده
+- [ ] تجزیه عملکردی
+- [ ] تحقیق و توسعه
 
-#### Q38. Which statement about technical debt is true?
+## س38. کدام عبارت در مورد بدهی فنی درست است؟
 
-- [ ] Technical debt is another name for bugs
-- [ ] It is at the Product Owner's description to allocate effort to reduce technical debt.
-- [x] Adding technical debt should be avoided at all costs.
-- [ ] Technical debt is what the Product Owner owes to the developers if they work a lot of overtime to complete the sprint.
+- [ ] بدهی فنی نام دیگری برای اشکالات است
+- [ ] تخصیص تلاش برای کاهش بدهی فنی در توضیحات مالک محصول است.
+- [x] باید از افزودن بدهی فنی به هر قیمتی اجتناب شود.
+- [ ] بدهی فنی چیزی است که مالک محصول به توسعه دهندگان بدهکار است، اگر آنها اضافه کاری زیادی برای تکمیل اسپرینت انجام دهند.
 
-#### Q39. Which statement about estimating is not true?
+## س39. کدام عبارت در مورد تخمین درست نیست؟
 
-- [x] Absolute estimating is more reliable than relative estimating.
-- [ ] Relative estimating is more reliable than absolute estimating.
-- [ ] In estimating, accuracy is more important than precision.
-- [ ] In estimating, the effort is more important than the time required.
+- [x] تخمین مطلق قابل اعتمادتر از تخمین نسبی است.
+- [ ]تخمین نسبی قابل اعتمادتر از تخمین مطلق است.
+- [ ] در برآورد، دقت مهمتر از درستی است.
+- [ ] در برآورد، تلاش مهمتر از زمان مورد نیاز است.
 
-#### Q40. Which ceremony should the Product Owner not attend?
+## س40. صاحب محصول در کدام مراسم شرکت نکند؟
 
-- [ ] daily stand-ups
-- [ ] Sprint Retrospectives
-- [ ] story point estimating
-- [x] code reviews
+- [ ] استند آپ های روزانه
+- [ ] دوی سرعت گذشته نگر
+- [ ] تخمین نقطه داستان
+- [x] بررسی کد
 
-#### Q41. Which task is not the Product Owners responsibility?
+## س41. صاحب محصول در کدام مراسم شرکت نکند؟
 
-- [ ] estimating story points
-- [ ] refining acceptance criteria
-- [x] giving feedback to developers about the user stories
-- [ ] demonstrating the work to stakeholders
+- [ ] تخمین نکات داستانی
+- [ ] اصلاح معیارهای پذیرش
+- [x] ارائه بازخورد به توسعه دهندگان در مورد داستان های کاربر
+- [ ] نشان دادن کار به ذینفعان
 
-#### Q42. Which choice is `_not_` considered during Sprint Planning?
+## س42. کدام انتخاب _not_در برنامه ریزی اسپرینت در نظر گرفته می شود؟
 
-- [x] stories that meet the Definition of Done
-- [ ] team velocity
-- [ ] stories that meet the Definition of Ready
-- [ ] team capacity
+- [x] داستان هایی که با تعریف Done مطابقت دارند
+- [ ] سرعت تیم
+- [ ] داستان هایی که با تعریف Ready مطابقت دارند
+- [ ] ظرفیت تیم
+
 
 #### Q43. You have noticed a pattern that the most interesting stories on the Sprint Backlog get started right away, and the least interesting stories languish or don't get done. What should you do?
 
